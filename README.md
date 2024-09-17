@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Brent 👋
+
+- I'm currently finishing up my B.S. in Software Engineering.
+- I'm currently re-reading a childhood favorite, the entire Shanarra series.
+- I'm currently playing the Final Fantasy Pixel Remake.
+- I'm currently watching Better Call Saul.
 
 <!--
 **BrentMercer/BrentMercer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
