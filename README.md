@@ -1,9 +1,18 @@
-## Hi there, I'm Brent 👋
+## Hi there! 👋 I'm Brenton Mercer
 
-- I'm currently finishing up my B.S. in Software Engineering.
-- I'm currently re-reading a childhood favorite, the entire Shanarra series.
-- I'm currently playing the Final Fantasy Pixel Remake.
-- I'm currently watching Better Call Saul.
+I'm a software engineer passionate about building scalable, user-friendly applications and solving complex problems with code. My experience spans full-stack development with technologies like Java, React, Spring, MySQL, and AWS, and I enjoy creating projects that bridge technical functionality with great user experiences.
+🚀 What I'm Working On
+
+    Exploring cloud-based deployment solutions and APIs
+    Building interactive projects in JavaScript and Python
+    Expanding my knowledge of secure coding practices
+
+🌟 Featured Projects
+
+    Kanban Bananas: A full-stack task management app using Java, Spring, React, and AWS
+    Fabunauts: A Unity-based puzzle platformer game
+
+Check out my repositories below for more projects!
 
 <!--
 **BrentMercer/BrentMercer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
